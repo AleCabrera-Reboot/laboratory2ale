@@ -1,2 +1,2 @@
 // JavaSript to be added
-// Eres el puto amo!!
+// Adrián es el jefe!
